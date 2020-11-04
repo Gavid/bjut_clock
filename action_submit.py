@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 import os
 
-# 以下个人内容全部放到仓库的secrets中（注意其中取值字段要跟自己的一致）
+# 以下个人内容全部放到仓库的secrets中（注意其中取值字段要跟自己的一致） 
 
 try:
     server_key = os.environ["key"]  # server酱key,登录之后就可使用
