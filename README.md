@@ -67,7 +67,7 @@ Server酱网站：http://sc.ftqq.com/3.version
 
 username ：学号
 password ：密码
-key ：申请的server的key
+key ：申请的server的key 
 
 ![](https://github.com/Swenchao/bjut_clock/blob/master/images/3.png)
 
